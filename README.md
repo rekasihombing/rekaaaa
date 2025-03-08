@@ -22,14 +22,16 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rekasihombing&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekasihombing&theme=radical" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=rekasihombing&theme=radical" />
 </p>
 
 ## 🌍 Let's Connect!
 <p align="center">
-  <a href="www.linkedin.com/in/reka-oktavia-br-sihombing-3a5760342" target="_blank">
+  <a href="https://www.linkedin.com/in/reka-oktavia-br-sihombing-3a5760342" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
