@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;AI+%26+Data+Enthusiast+🤖;Open+Source+Contributor+🌍">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;AI+&+Data+Enthusiast+🤖;Open+Source+Contributor+🌍">
 </p>
 
 ---
@@ -22,23 +22,9 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=radical" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="400px"/>
-</p>
-
-### 🏆 GitHub Profile Trophy  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-bg=true&margin-w=5" />
-</p>
-
-### 💡 Additional Stats  
-<p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge" />
-  <img src="https://img.shields.io/github/commits-since/YOUR_USERNAME/main?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/YOUR_USERNAME?style=for-the-badge" />
-  <img src="https://img.shields.io/github/contributors/YOUR_USERNAME?style=for-the-badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
 </p>
 
 ## 🌍 Let's Connect!
@@ -53,4 +39,3 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
